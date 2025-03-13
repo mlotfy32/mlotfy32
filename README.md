@@ -90,7 +90,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/mlotfy32/mlotfy32/output/pacman-contribution-graph.svg" alt="Pacman animation" />
-
-###
