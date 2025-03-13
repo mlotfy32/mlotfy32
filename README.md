@@ -81,12 +81,16 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/mlotfy32/mlotfy32/output/snake.svg" alt="Snake animation" />
+<img align="left" height="150" src="https://media3.giphy.com/media/QHE5gWI0QjqF2/200.webp?cid=ecf05e47mjkrscql6qwnkcijjrtyrfhjyy3x5m0mhpka1zsu&ep=v1_gifs_search&rid=200.webp&ct=g"  />
 
 ###
 
-<img align="left" height="150" src="https://media3.giphy.com/media/QHE5gWI0QjqF2/200.webp?cid=ecf05e47mjkrscql6qwnkcijjrtyrfhjyy3x5m0mhpka1zsu&ep=v1_gifs_search&rid=200.webp&ct=g"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mlotfy32/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/mlotfy32/mlotfy32/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 ###
