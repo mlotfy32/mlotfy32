@@ -86,7 +86,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mlotfy32.mlotfy32&right_color=brown"  />
+  <img src="https://profile-counter.glitch.me/mlotfy32/count.svg?"  />
 </div>
 
 ###
